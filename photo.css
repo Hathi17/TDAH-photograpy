@@ -1,0 +1,238 @@
+*{
+    margin: 0;
+}
+body{
+ background-color: white;
+}
+
+
+
+ul{
+    display: inline;
+    margin-left: 705px;
+    word-spacing: 30px;
+    font-size: 25px;
+   margin-top: 20px;
+   
+}
+li{
+    display: inline;
+    color:black;
+   
+}
+li:hover{
+    filter: drop-shadow(10px 8px 12px rgb(255, 255, 255));
+}
+.head{
+   
+    height: 65px;
+    padding-top: 40px;
+    display: flex;
+    box-shadow: 0px 0px 20px rgb(255, 255, 255);
+}
+.head:hover{
+    box-shadow: 0px 0px 20px rgba(2, 2, 2, 0.993);
+}
+img{
+   margin-left: 100px;
+}
+img:hover{
+    box-shadow: 0px 0px 20px;
+}
+h1{
+   color: white;
+    font-size: 75px;
+
+}
+.a{
+    display: inline;
+    position: relative;
+    margin-left: 60%;
+    margin-top: -400px;
+    width: 35%;
+    height: 450px;
+}
+fieldset{
+  background-color: rgb(11, 131, 131);
+   background-repeat: no-repeat;
+   background-size: cover;
+ 
+
+}
+.z{
+    display: inline;
+    height: 45px;
+    width: 175px;
+    margin-left: 45%;
+    font-size: 20px;
+}
+h2{
+    display: inline;
+    position: relative;
+    margin-left: 45%;
+    top: -14px;
+    background-color: white;
+}
+.p{
+  width: 45%; 
+  text-align: left; 
+  margin-left: 30%;
+}
+.y{
+  margin-left: 180px;
+  background-color: black;
+  color: white;
+}
+h3{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+    margin-left: 150px;
+}
+.w{
+    display: inline;
+    position: relative;
+    left: 160px;
+    top: -45px;
+    height: 25px;
+    
+}
+.f{
+    display: inline;
+    position: relative;
+    left: 340px;
+    top: -45px;
+    height: 25px;
+}
+.r{
+    display: inline;
+    position: relative;
+    left: 550px;
+    top: -45px;
+    height: 25px;
+
+
+}
+.i{
+    display: inline;
+    position: relative;
+    left: 750px;
+    top: -45px;
+    height: 25px;
+}
+a{
+    text-decoration: none;
+    color:black;
+}
+h4{
+    margin-left: 400px;
+    font-size: 30px;
+}
+h5{
+    display: inline;
+    font-size: 25px;
+    margin-left: 60px;
+    color: white;
+}
+h6{
+    display: inline;
+    font-size: 20px;
+    margin-left: 45px;
+    color: white;
+}
+footer{
+    background-color: black;
+}
+ol{
+    display: inline;
+    margin-left: 995px;
+    word-spacing: 35px;
+    font-size: 35px;
+    margin-top: -145px;
+}
+.one{
+    display: inline;
+    font-size: 20px;
+    position: relative;
+    right: 650px;
+
+}
+.two{
+    display: inline;
+    font-size: 20px;
+    position: relative;
+    right: 10px;  
+    top: -20px;
+}
+.three{
+    display: inline;
+    font-size: 20px;
+    position: relative;
+    right: 300px;
+    top: -20px;
+}
+.four{
+    display: inline;
+    font-size: 20px;
+    position: relative;
+    left: 555px;
+    top: -40px;
+}
+.five{
+    display: inline;
+    position: relative;
+    left: 370px;
+    top: -15px;
+}
+.six{
+    display: inline;
+    position: relative;
+    right: 100px;
+    
+    top: -20px;
+}
+.seven{
+    display: inline;
+    position: relative;
+    right: 570px;
+    top: -20px;
+}
+.eight{
+    display: inline;
+    position: relative;
+    right: 1050px;
+    top: -20px;
+}
+.topic{
+    display: inline;
+    position: relative;
+    top: -50px;
+    left: 400px;
+      font-family: "Playwrite AU TAS", cursive;
+      font-optical-sizing: auto;
+    }
+    video{
+        display: inline;
+        margin-left: 255px;
+    }
+    .ct{
+        color: black;
+        font-family: "Playwrite AU TAS", cursive;
+        margin-left: 445px;
+    }
+    .v{
+        display: inline;
+        background-color: white;
+        position: relative;
+        top: -20px;
+        left: 20%;
+    }
+    .logo{
+        display: inline;
+        position: relative;
+        top: -200px;
+        height: 155px;
+        width: 400px;
+    }
+    .logo{
+        box-shadow:none;
+    }
